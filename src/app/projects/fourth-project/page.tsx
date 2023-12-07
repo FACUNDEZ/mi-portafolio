@@ -23,7 +23,7 @@ function Page() {
             </header>
             <main className="h-full flex items-center justify-center overflow-hidden">
                 <section className="bg-cover bg-center w-full pt-48 pb-40 md:pt-48 md:pb-40 lg:pt-52 lg:pb-44" style={{ backgroundImage: "url('/images/background.webp')" }}>
-                    <h1 className="text-center text-5xl md:text-6xl lg:text-7xl font-bold leading-snug animate-translateX">CHAT APP</h1>
+                    <h1 className="text-center text-5xl md:text-6xl lg:text-7xl font-bold leading-snug animate-translateX">&#60; CHAT APP &#62;</h1>
                     <hr className='mt-3 rounded w-16 md:w-24 m-auto border-4 border-cyan-500 animate-bounceX' />
                     <p className="text-center text-lg md:text-xl lg:text-2xl mt-12 lg:mt-16 mx-2 tracking-wider animate-translateXR">I wrote a description in this page for you telling about my chat app project that I made. I hope you enjoy it so much!</p>
                     <button className="block rounded m-auto mt-16 shadow-md tracking-wider bg-cyan-500 text-white text-2xl font-bold px-5 py-4 hover:bg-cyan-600 hover:-translate-y-3 duration-500 animate-translateY">Live Link</button>
@@ -32,7 +32,7 @@ function Page() {
 
             <section className='bg-gray-100 h-full w-full md:m-auto pt-14 pb-14 md:flex md:flex-col md:justify-start md:px-20 lg:px-60'>
                 <h2 className='font-bold text-xl md:text-2xl lg:text-3xl ml-5 lg:mt-5'>Project Overview</h2>
-                <p className='mx-5 mt-5 md:mt-7 leading-6 text-sm md:text-base'>My fullstack chat application provides a comprehensive and secure experience for users. The login and registration process has been carefully designed to ensure maximum security and data privacy. I've implemented an instant communication system backed by sockets, ensuring dynamic and real-time interaction among users.</p><br />
+                <p className='mx-5 mt-5 md:mt-7 leading-6 text-sm md:text-base'>My fullstack chat application provides a comprehensive and secure experience for users. The login and registration process has been carefully designed to ensure maximum security and data privacy. I have implemented an instant communication system backed by sockets, ensuring dynamic and real-time interaction among users.</p><br />
                 <p className='mx-5 leading-6 text-sm md:text-base'> The list of connected users is automatically updated, providing a real-time view of the activity within the platform. Furthermore, we have strengthened authentication through the implementation of tokens, further enhancing system security and protecting user identity.</p><br />
                 <p className='mx-5 leading-6 text-sm md:text-base'>In short, our chat app not only prioritizes security and privacy, but also strives to offer an efficient, reliable and easy-to-use platform to meet all your online communication needs.</p>
                 <div className='mt-12'>
