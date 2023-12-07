@@ -23,7 +23,7 @@ function Page() {
             </header>
             <main className="h-full flex items-center justify-center overflow-hidden">
                 <section className="bg-cover bg-center w-full pt-48 pb-40 md:pt-48 md:pb-40 lg:pt-52 lg:pb-44" style={{ backgroundImage: "url('/images/background.webp')" }}>
-                    <h1 className="text-center text-5xl md:text-6xl lg:text-7xl font-bold leading-snug animate-translateX">&#60; CHAT APP &#62;</h1>
+                    <h1 className="text-center text-5xl md:text-6xl lg:text-7xl font-bold leading-snug animate-translateX">CHAT APP</h1>
                     <hr className='mt-3 rounded w-16 md:w-24 m-auto border-4 border-cyan-500 animate-bounceX' />
                     <p className="text-center text-lg md:text-xl lg:text-2xl mt-12 lg:mt-16 mx-2 tracking-wider animate-translateXR">I wrote a description in this page for you telling about my chat app project that I made. I hope you enjoy it so much!</p>
                     <button className="block rounded m-auto mt-16 shadow-md tracking-wider bg-cyan-500 text-white text-2xl font-bold px-5 py-4 hover:bg-cyan-600 hover:-translate-y-3 duration-500 animate-translateY">Live Link</button>
